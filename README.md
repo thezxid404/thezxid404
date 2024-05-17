@@ -1,25 +1,19 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm [YbZaid] 👋
 
 ## About Me
-- 🔭 I’m currently working on **[Your Project Name]**
-- 🌱 I’m currently learning **[Technology or Skill]**
-- 👯 I’m looking to collaborate on **[Type of Projects]**
-- 🤔 I’m looking for help with **[Project or Topic]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Your Contact Information]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[Interesting Fact About You]**
+- 🔭 I’m currently working on **[Avengers]**
+- 🌱 I’m currently learning **[Control My Sharingan]**
+- 👯 I’m looking to collaborate on **[You baby]**
+- 🤔 I’m looking for help with **Youu**
+- 💬 Ask me about **[My Power]**
+- 📫 How to reach me: **[zxidnetwork@comouter4u.com]**
+- 😄 Pronouns: **[Yb OR Bob]**
+- ⚡ Fun fact: **[Sexure Your Laugh]**
 
 ## My GitHub Stats
-!YourName's github stats
+!YBzaid
 
-## Languages and Tools:
-!YourName's Top Langs
-
-## Connect with me:
-[![LinkedIn][3.2]][3]
-[![GitHub][1.2]][1]
-
+## Language
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
